@@ -1,13 +1,9 @@
 #include <studio.h>
-
-
 int main()
 {
     bool swap;
     int n=5,j;
     int arr[5]={58,89,71,35,6};
-    
-    
     do{
         swap=false;
         for(j=0;j<n;j++)
